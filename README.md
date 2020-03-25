@@ -1,6 +1,6 @@
 # rime-kana_zaonhegho
 
-Refer to the PDF document `Zaonhe Yanpen.pdf` for details of this orthography.
+Refer to the PDF document `KanaZaonhe.pdf` for details of this orthography.
 
 Because Shanghainese employs a wider set of phonemes than that Kana is designed for, some extensions to Kana are used.
 
