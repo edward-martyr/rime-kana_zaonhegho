@@ -9,7 +9,7 @@ Because Shanghainese employs a wider set of phonemes than that Kana is designed 
 
 **Two strategies provided to display all glyphs used**:
 
-- use the font provided (`Zaonhe-CL-Light-subset.ttf`), which is an extension of [Genyog](https://github.com/ButTaiwan/genyog-font), an open source font based on Source Han Sans. Currently I've only created a Light weight for my personal use on [Nyoeghau.com](Nyoeghau.com).
+- use the font provided (`Zaonhe-CL-Light-subset.ttf`), which is an extension of [Genyog](https://github.com/ButTaiwan/genyog-font), an open source font based on Source Han Sans. Currently I've only created a Light weight for my personal use on [Nyoeghau.com](https://www.nyoeghau.com/).
   - *Digression*: Several common Shanghainese/Wu ideographs are appended as well. The complete list: `U+2BE3B` ⿰弗要, `U+277F0` ⿰勿要, `U+23350` ⿰勿會, `U+20C8E` ⿰口伐. I recommend inputting them with my [Shanghainese Input Method (README in Mandarin)](https://github.com/edward-martyr/rime-yahwe_zaonhe). This production of this schema itself involved my [hentaigana input method (README in English)](https://github.com/edward-martyr/rime-hentaigana).
 - use the `opencc` feature (already integrated. find it under menu) which by default converts small we, wo, nn to small e, o and large nn.
 
