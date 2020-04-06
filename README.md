@@ -13,4 +13,23 @@ Because Shanghainese employs a wider set of phonemes than that Kana is designed 
   - *Digression*: Several common Shanghainese/Wu ideographs are appended as well. The complete list: `U+2BE3B` ⿰弗要, `U+277F0` ⿰勿要, `U+23350` ⿰勿會, `U+20C8E` ⿰口伐. I recommend inputting them with my [Shanghainese Input Method (README in Mandarin)](https://github.com/edward-martyr/rime-yahwe_zaonhe). This production of this schema itself involved my [hentaigana input method (README in English)](https://github.com/edward-martyr/rime-hentaigana).
 - use the `opencc` feature (already integrated. find it under menu) which by default converts small we, wo, nn to small e, o and large nn.
 
-I'll add to README when I'm freer next week.
+## Installation
+
+### Mac, Linux
+
+Install plum if you haven't.
+
+```bash
+curl -fsSL https://git.io/rime-install | bash
+```
+
+Install rime-kana_zaonhegho via plum:
+
+```bash
+cd plum
+bash rime-install edward-martyr/rime-kana_zaonhegho
+```
+
+### Windows
+
+Use the `【小狼毫】方案選單設定` menu and input `edward-martyr/rime-yahwe_zaonhe`.
